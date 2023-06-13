@@ -23,7 +23,7 @@
  
  
 <div>
-<a href="https://linkedin.com/in/augustonf2005/" target="_blank"> <img align="right" alt="linkedin" height="30px" width="30px" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" target="_blank">
+<a href="https://linkedin.com/in/augustonf/" target="_blank"> <img align="right" alt="linkedin" height="30px" width="30px" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" target="_blank">
 <a href="https://www.instagram.com/gusto_n05/" target="_blank"> <img align="right" alt="insta" height="30px" width="30px" src="https://cdn-icons-png.flaticon.com/512/3955/3955024.png">
 <a href="https://www.twitch.tv/Dcuko" target="_blank"> <img align="right" alt="insta" height="30px" width="30px" src="https://cdn-icons-png.flaticon.com/512/3669/3669999.png">
 </div>
