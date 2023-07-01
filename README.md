@@ -10,6 +10,7 @@
 <p>💼Freela;
 <p>🐱‍👤Ele/dele;
 <p>👔Aberto a Propostas de emprego.
+<p>📝1ºPeriodo de Ciência da Computação - UFRRJ
 </div>
 </div>
 
