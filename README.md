@@ -9,8 +9,8 @@
 <p>🏠Rio de Janeiro, Brasil;
 <p>💼Freela;
 <p>🐱‍👤Ele/dele;
-<p>👔Aberto a Propostas de emprego.
-<p>📝1ºPeriodo de Ciência da Computação - UFRRJ
+<p>👔Aberto a Propostas de estágio.
+<p>📝3ºPeriodo de Ciência da Computação - UFRRJ
 </div>
 </div>
 
