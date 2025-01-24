@@ -5,12 +5,12 @@
 <div style="display: inline_block;">
 <img align= "right" alt= "Icon" height= "200px" width= "200px"  src="https://cdn.discordapp.com/attachments/855960058188529664/1071668963278327839/Design_sem_nome.gif">
 <div>
-<p>🌱Estudando JS e React;
+<p>🌱Aprimorando Java;
 <p>🏠Rio de Janeiro, Brasil;
 <p>💼Freela;
 <p>🐱‍👤Ele/dele;
 <p>👔Aberto a Propostas de estágio.
-<p>📝3ºPeriodo de Ciência da Computação - UFRRJ
+<p>📝5ºPeriodo de Ciência da Computação - UFRRJ
 </div>
 </div>
 
