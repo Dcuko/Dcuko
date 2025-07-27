@@ -10,7 +10,7 @@
 <p>💼Freela;
 <p>🐱‍👤Ele/dele;
 <p>👔Aberto a Propostas de estágio.
-<p>📝5ºPeriodo de Ciência da Computação - UFRRJ
+<p>📝6ºPeriodo de Ciência da Computação - UFRRJ
 </div>
 </div>
 
