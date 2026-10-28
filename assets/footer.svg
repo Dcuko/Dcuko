@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 120" width="900" height="120" font-family="'JetBrains Mono','Fira Code',Consolas,Menlo,monospace">
+<defs><linearGradient id="w" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#7df9ff"/><stop offset="1" stop-color="#e07bff"/></linearGradient>
+<clipPath id="c"><rect width="900" height="120"/></clipPath></defs>
+<g clip-path="url(#c)">
+<g opacity="0.35" fill="url(#w)"><path d="M0 52 q75.0 -16 150.0 0 t150.0 0 t150.0 0 t150.0 0 t150.0 0 t150.0 0 t150.0 0 t150.0 0 t150.0 0 V120 H0 Z"><animateTransform attributeName="transform" type="translate" from="0 0" to="-300 0" dur="7s" repeatCount="indefinite"/></path></g>
+<g opacity="0.55" fill="url(#w)"><path d="M0 66 q55.0 -12 110.0 0 t110.0 0 t110.0 0 t110.0 0 t110.0 0 t110.0 0 t110.0 0 t110.0 0 t110.0 0 t110.0 0 t110.0 0 t110.0 0 V120 H0 Z"><animateTransform attributeName="transform" type="translate" from="0 0" to="-220 0" dur="5s" repeatCount="indefinite"/></path></g>
+</g>
+<text x="450" y="98" text-anchor="middle" font-size="14" fill="#0b0716" font-weight="700">feito com café, bug e teimosia</text>
+</svg>

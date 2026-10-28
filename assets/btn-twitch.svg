@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 270 64" width="270" height="64" font-family="'JetBrains Mono','Fira Code',Consolas,Menlo,monospace">
+<rect x="1.5" y="1.5" width="267" height="61" rx="14" fill="#0e0820"/>
+<rect x="1.5" y="1.5" width="267" height="61" rx="14" fill="#b88cff" fill-opacity="0.08" stroke="#b88cff" stroke-width="2"/>
+<rect x="14" y="16" width="5" height="32" rx="2.5" fill="#b88cff"><animate attributeName="opacity" values="1;0.3;1" dur="2.4s" repeatCount="indefinite"/></rect>
+<text x="34" y="29" font-size="11" fill="#b88cff" letter-spacing="3">TWITCH</text>
+<text x="34" y="49" font-size="16" font-weight="700" fill="#f1eaff">/Dcuko</text>
+<text x="250" y="39" text-anchor="end" font-size="18" fill="#b88cff">↗</text>
+</svg>

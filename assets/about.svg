@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 270" width="900" height="270" font-family="'JetBrains Mono','Fira Code',Consolas,Menlo,monospace" font-size="16">
+  <rect x="1" y="1" width="898" height="268" rx="14" fill="#0e0820" stroke="#5b2fb8" stroke-width="2"/>
+  <path d="M1 15a14 14 0 0 1 14-14h870a14 14 0 0 1 14 14v26H1z" fill="#1a0f36"/>
+  <circle cx="28" cy="21" r="6" fill="#ff5f87"/>
+  <circle cx="50" cy="21" r="6" fill="#ffd166"/>
+  <circle cx="72" cy="21" r="6" fill="#5fd38d"/>
+  <text x="450" y="26" text-anchor="middle" font-size="13" fill="#8a77c9">augusto@rio:~</text>
+
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.3s" dur="0.4s" fill="freeze"/>
+    <text x="28" y="76"><tspan fill="#5fd38d">$</tspan><tspan fill="#e6dcff"> whoami</tspan></text>
+    <text x="52" y="100" fill="#7df9ff">Augusto Neves · dev em construção</text>
+  </g>
+
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="1.1s" dur="0.4s" fill="freeze"/>
+    <text x="28" y="136"><tspan fill="#5fd38d">$</tspan><tspan fill="#e6dcff"> cat status.txt</tspan></text>
+    <text x="52" y="160" fill="#cdb8ff">aprimorando <tspan fill="#ff7ab8" font-weight="700">Java</tspan> · freela · home office</text>
+  </g>
+
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="1.9s" dur="0.4s" fill="freeze"/>
+    <text x="28" y="196"><tspan fill="#5fd38d">$</tspan><tspan fill="#e6dcff"> ./disponibilidade.sh</tspan></text>
+    <text x="52" y="220" fill="#ffd166">aberto a propostas de estágio</text>
+    <text x="52" y="244" fill="#cdb8ff">rio de janeiro, br · stream na Twitch nas horas vagas</text>
+  </g>
+</svg>
